@@ -1,0 +1,541 @@
+﻿Arms Deal   MP7   Skulls   Mil-Spec   True
+Arms Deal   SG 553   Ultraviolet   Mil-Spec   True
+Arms Deal   AUG   Wings   Mil-Spec   True
+Arms Deal   M4A1-S   Dark Water   Restricted   True
+Arms Deal   USP-S   Dark Water   Restricted   True
+Arms Deal   Glock-18   Dragon Tattoo   Restricted   True
+Arms Deal   Desert Eagle   Hypnotic   Classified   True
+Arms Deal   AK-47   Case Hardened   Classified   True
+Arms Deal   AWP   Lightning Strike   Covert   True
+eSports 2013   M4A4   Faded Zebra   Mil-Spec   True
+eSports 2013   FAMAS   Doomkitty   Mil-Spec   True
+eSports 2013   MAG-7   Memento   Mil-Spec   True
+eSports 2013   Sawed-Off   Orange DDPAT   Restricted   True
+eSports 2013   P250   Splash   Restricted   True
+eSports 2013   Galil AR   Orange DDPAT   Restricted   True
+eSports 2013   AK-47   Red Laminate   Classified   True
+eSports 2013   AWP   BOOM   Classified   True
+eSports 2013   P90   Death by Kitty   Covert   True
+Bravo   Nova   Tempest   Mil-Spec   True
+Bravo   Dual Berettas   Black Limba   Mil-Spec   True
+Bravo   UMP-45   Bone Pile   Mil-Spec   True
+Bravo   SG 553   Wave Spray   Mil-Spec   True
+Bravo   Galil AR   Shattered   Mil-Spec   True
+Bravo   G3SG1   Demeter   Mil-Spec   True
+Bravo   M4A1-S   Bright Water   Restricted   True
+Bravo   M4A4   Zirka   Restricted   True
+Bravo   MAC-10   Graven   Restricted   True
+Bravo   USP-S   Overgrowth   Restricted   True
+Bravo   P90   Emerald Dragon   Classified   True
+Bravo   P2000   Ocean Foam   Classified   True
+Bravo   AWP   Graphite   Classified   True
+Bravo   Desert Eagle   Golden Koi   Covert   True
+Bravo   AK-47   Fire Serpent   Covert   True
+Arms Deal Two   Tec-9   Blue Titanium   Mil-Spec   True
+Arms Deal Two   M4A1-S   Blood Tiger   Mil-Spec   True
+Arms Deal Two   FAMAS   Hexane   Mil-Spec   True
+Arms Deal Two   P250   Hive   Mil-Spec   True
+Arms Deal Two   SCAR-20   Crimson Web   Mil-Spec   True
+Arms Deal Two   Five-SeveN   Case Hardened   Restricted   True
+Arms Deal Two   MP9   Hypnotic   Restricted   True
+Arms Deal Two   Nova   Graphite   Restricted   True
+Arms Deal Two   Dual Berettas   Hemoglobin   Restricted   True
+Arms Deal Two   P90   Cold Blooded   Classified   True
+Arms Deal Two   USP-S   Serum   Classified   True
+Arms Deal Two   SSG 08   Blood in the Water   Covert   True
+Winter Offensive   PP-Bizon   Cobalt Halftone   Mil-Spec   True
+Winter Offensive   M249   Magma   Mil-Spec   True
+Winter Offensive   Five-SeveN   Kami   Mil-Spec   True
+Winter Offensive   Galil AR   Sandstorm   Mil-Spec   True
+Winter Offensive   Nova   Rising Skull   Restricted   True
+Winter Offensive   MP9   Rose Iron   Restricted   True
+Winter Offensive   Dual Berettas   Marina   Restricted   True
+Winter Offensive   FAMAS   Pulse   Restricted   True
+Winter Offensive   AWP   Redline   Classified   True
+Winter Offensive   P250   Mehndi   Classified   True
+Winter Offensive   M4A1-S   Guardian   Classified   True
+Winter Offensive   Sawed-Off   The Kraken   Covert   True
+Winter Offensive   M4A4   Asiimov   Covert   True
+eSports 2013 Winter   Galil AR   Blue Titanium   Mil-Spec   True
+eSports 2013 Winter   Five-SeveN   Nightshade   Mil-Spec   True
+eSports 2013 Winter   PP-Bizon   Water Sigil   Mil-Spec   True
+eSports 2013 Winter   Nova   Ghost Camo   Mil-Spec   True
+eSports 2013 Winter   G3SG1   Azure Zebra   Mil-Spec   True
+eSports 2013 Winter   P250   Steel Disruption   Mil-Spec   True
+eSports 2013 Winter   AK-47   Blue Laminate   Restricted   True
+eSports 2013 Winter   P90   Blind Spot   Restricted   True
+eSports 2013 Winter   FAMAS   Afterimage   Classified   True
+eSports 2013 Winter   AWP   Electric Hive   Classified   True
+eSports 2013 Winter   Desert Eagle   Cobalt Disruption   Classified   True
+eSports 2013 Winter   M4A4   X-Ray   Covert   True
+Arms Deal 3   CZ75-Auto   Crimson Web   Mil-Spec   True
+Arms Deal 3   P2000   Red FragCam   Mil-Spec   True
+Arms Deal 3   Dual Berettas   Panther   Mil-Spec   True
+Arms Deal 3   USP-S   Stainless   Mil-Spec   True
+Arms Deal 3   Glock-18   Blue Fissure   Mil-Spec   True
+Arms Deal 3   CZ75-Auto   Tread Plate   Restricted   True
+Arms Deal 3   Tec-9   Titanium Bit   Restricted   True
+Arms Deal 3   Desert Eagle   Heirloom   Restricted   True
+Arms Deal 3   Five-SeveN   Copper Galaxy   Restricted   True
+Arms Deal 3   CZ75-Auto   The Fuschia Is Now   Classified   True
+Arms Deal 3   P250   Undertow   Classified   True
+Arms Deal 3   CZ75-Auto   Victoria   Covert   True
+Phoenix   UMP-45   Corporal   Mil-Spec   True
+Phoenix   Negev   Terrain   Mil-Spec   True
+Phoenix   Tec-9   Sandstorm   Mil-Spec   True
+Phoenix   MAG-7   Heaven Guard   Mil-Spec   True
+Phoenix   MAC-10   Heat   Restricted   True
+Phoenix   SG 553   Pulse   Restricted   True
+Phoenix   FAMAS   Sergeant   Restricted   True
+Phoenix   USP-S   Guardian   Restricted   True
+Phoenix   AK-47   Redline   Classified   True
+Phoenix   P90   Trigon   Classified   True
+Phoenix   Nova   Antique   Classified   True
+Phoenix   AWP   Asiimov   Covert   True
+Phoenix   AUG   Chameleon   Covert   True
+Huntsman   Tec-9   Isaac   Mil-Spec   True
+Huntsman   SSG 08   Slashed   Mil-Spec   True
+Huntsman   Dual Berettas   Retribution **   Mil-Spec   True
+Huntsman   Galil AR   Kami   Mil-Spec   True
+Huntsman   P90   Desert Warfare **   Mil-Spec   True
+Huntsman   CZ75-Auto   Poison Dart **   Mil-Spec   True
+Huntsman   CZ75-Auto   Twist *   Mil-Spec   True
+Huntsman   P90   Module *   Mil-Spec   True
+Huntsman   P2000   Pulse *   Mil-Spec   True
+Huntsman   AUG   Torque   Restricted   True
+Huntsman   PP-Bizon   Antique   Restricted   True
+Huntsman   XM1014   Heaven Guard   Restricted   True
+Huntsman   MAC-10   Curse **   Restricted   True
+Huntsman   MAC-10   Tatter *   Restricted   True
+Huntsman   M4A1-S   Atomic Alloy   Classified   True
+Huntsman   SCAR-20   Cyrex   Classified   True
+Huntsman   USP-S   Orion **   Classified   True
+Huntsman   USP-S   Caiman *   Classified   True
+Huntsman   AK-47   Vulcan   Covert   True
+Huntsman   M4A4   Desert-Strike *   Covert   True
+Huntsman   M4A4   Howl **   Contraband   True
+Breakout   MP7   Urban Hazard   Mil-Spec   True
+Breakout   Negev   Desert-Strike   Mil-Spec   True
+Breakout   P2000   Ivory   Mil-Spec   True
+Breakout   SSG 08   Abyss   Mil-Spec   True
+Breakout   UMP-45   Labyrinth   Mil-Spec   True
+Breakout   PP-Bizon   Osiris   Restricted   True
+Breakout   CZ75-Auto   Tigris   Restricted   True
+Breakout   Nova   Koi   Restricted   True
+Breakout   P250   Supernova   Restricted   True
+Breakout   Desert Eagle   Conspiracy   Classified   True
+Breakout   Five-SeveN   Fowl Play   Classified   True
+Breakout   Glock-18   Water Elemental   Classified   True
+Breakout   P90   Asiimov   Covert   True
+Breakout   M4A1-S   Cyrex   Covert   True
+eSports 2014 Summer   SSG 08   Dark Water   Mil-Spec   True
+eSports 2014 Summer   MAC-10   Ultraviolet   Mil-Spec   True
+eSports 2014 Summer   USP-S   Blood Tiger   Mil-Spec   True
+eSports 2014 Summer   CZ75-Auto   Hexane   Mil-Spec   True
+eSports 2014 Summer   Negev   Bratatat   Mil-Spec   True
+eSports 2014 Summer   XM1014   Red Python   Mil-Spec   True
+eSports 2014 Summer   PP-Bizon   Blue Streak   Restricted   True
+eSports 2014 Summer   P90   Virus   Restricted   True
+eSports 2014 Summer   MP7   Ocean Foam   Restricted   True
+eSports 2014 Summer   Glock-18   Steel Disruption   Restricted   True
+eSports 2014 Summer   Desert Eagle   Crimson Web   Restricted   True
+eSports 2014 Summer   AUG   Bengal Tiger   Classified   True
+eSports 2014 Summer   Nova   Bloomstick   Classified   True
+eSports 2014 Summer   AWP   Corticera   Classified   True
+eSports 2014 Summer   P2000   Corticera   Classified   True
+eSports 2014 Summer   M4A4   Bullet Rain   Covert   True
+eSports 2014 Summer   AK-47   Jaguar   Covert   True
+Vanguard   G3SG1   Murky   Mil-Spec   True
+Vanguard   MAG-7   Firestarter   Mil-Spec   True
+Vanguard   MP9   Dart   Mil-Spec   True
+Vanguard   Five-SeveN   Urban Hazard   Mil-Spec   True
+Vanguard   UMP-45   Delusion   Mil-Spec   True
+Vanguard   Glock-18   Grinder   Restricted   True
+Vanguard   M4A1-S   Basilisk   Restricted   True
+Vanguard   M4A4   Griffin   Restricted   True
+Vanguard   Sawed-Off   Highwayman   Restricted   True
+Vanguard   P250   Cartel   Classified   True
+Vanguard   SCAR-20   Cardiac   Classified   True
+Vanguard   XM1014   Tranquility   Classified   True
+Vanguard   AK-47   Wasteland Rebel   Covert   True
+Vanguard   P2000   Fire Elemental   Covert   True
+Chroma   Glock-18   Catacombs   Mil-Spec   True
+Chroma   M249   System Lock   Mil-Spec   True
+Chroma   MP9   Deadly Poison   Mil-Spec   True
+Chroma   SCAR-20   Grotto   Mil-Spec   True
+Chroma   XM1014   Quicksilver   Mil-Spec   True
+Chroma   Dual Berettas   Urban Shock   Restricted   True
+Chroma   Desert Eagle   Naga   Restricted   True
+Chroma   MAC-10   Malachite   Restricted   True
+Chroma   Sawed-Off   Serenity   Restricted   True
+Chroma   AK-47   Cartel   Classified   True
+Chroma   M4A4   龍王 (Dragon King)   Classified   True
+Chroma   P250   Muertos   Classified   True
+Chroma   AWP   Man-o'-war   Covert   True
+Chroma   Galil AR   Chatterbox   Covert   True
+Chroma 2   AK-47   Elite Build   Mil-Spec   True
+Chroma 2   MP7   Armor Core   Mil-Spec   True
+Chroma 2   Desert Eagle   Bronze Deco   Mil-Spec   True
+Chroma 2   P250   Valence   Mil-Spec   True
+Chroma 2   Negev   Man-o'-war   Mil-Spec   True
+Chroma 2   Sawed-Off   Origami   Mil-Spec   True
+Chroma 2   AWP   Worm God   Restricted   True
+Chroma 2   MAG-7   Heat   Restricted   True
+Chroma 2   CZ75-Auto   Pole Position   Restricted   True
+Chroma 2   UMP-45   Grand Prix   Restricted   True
+Chroma 2   Five-SeveN   Monkey Business   Classified   True
+Chroma 2   Galil AR   Eco   Classified   True
+Chroma 2   FAMAS   Djinn   Classified   True
+Chroma 2   M4A1-S   Hyper Beast   Covert   True
+Chroma 2   MAC-10   Neon Rider   Covert   True
+Falchion Case   Galil AR   Rocket Pop   Mil-Spec   True
+Falchion Case   Glock-18   Bunsen Burner   Mil-Spec   True
+Falchion Case   Nova   Ranger   Mil-Spec   True
+Falchion Case   P90   Elite Build   Mil-Spec   True
+Falchion Case   UMP-45   Riot   Mil-Spec   True
+Falchion Case   USP-S   Torque   Mil-Spec   True
+Falchion Case   FAMAS   Neural Net   Restricted   True
+Falchion Case   M4A4   Evil Daimyo   Restricted   True
+Falchion Case   MP9   Ruby Poison Dart   Restricted   True
+Falchion Case   Negev   Loudmouth   Restricted   True
+Falchion Case   P2000   Handgun   Restricted   True
+Falchion Case   CZ75-Auto   Yellow Jacket   Classified   True
+Falchion Case   MP7   Nemesis   Classified   True
+Falchion Case   SG 553   Cyrex   Classified   True
+Falchion Case   AK-47   Aquamarine Revenge   Covert   True
+Falchion Case   AWP   Hyper Beast   Covert   True
+Shadow Case   Dual Berettas   Dualing Dragons   Mil-Spec   True
+Shadow Case   FAMAS   Survivor Z   Mil-Spec   True
+Shadow Case   Glock-18   Wraiths   Mil-Spec   True
+Shadow Case   MAC-10   Rangeen   Mil-Spec   True
+Shadow Case   MAG-7   Cobalt Core   Mil-Spec   True
+Shadow Case   SCAR-20   Green Marine   Mil-Spec   True
+Shadow Case   XM1014   Scumbria   Mil-Spec   True
+Shadow Case   Galil AR   Stone Cold   Restricted   True
+Shadow Case   M249   Nebula Crusader   Restricted   True
+Shadow Case   MP7   Special Delivery   Restricted   True
+Shadow Case   P250   Wingshot   Restricted   True
+Shadow Case   AK-47   Frontside Misty   Classified   True
+Shadow Case   G3SG1   Flux   Classified   True
+Shadow Case   SSG 08   Big Iron   Classified   True
+Shadow Case   M4A1-S   Golden Coil   Covert   True
+Shadow Case   USP-S   Kill Confirmed   Covert   True
+Revolver Content   R8 Revolver   Crimson Web   Mil-Spec   True
+Revolver Content   AUG   Ricochet   Mil-Spec   True
+Revolver Content   Desert Eagle   Corinthian   Mil-Spec   True
+Revolver Content   P2000   Imperial   Mil-Spec   True
+Revolver Content   Sawed-Off   Yorick   Mil-Spec   True
+Revolver Content   PP-Bizon   Fuel Rod   Restricted   True
+Revolver Content   Five-SeveN   Retrobution   Restricted   True
+Revolver Content   Negev   Power Loader   Restricted   True
+Revolver Content   SG 553   Tiger Moth   Restricted   True
+Revolver Content   Tec-9   Avalanche   Restricted   True
+Revolver Content   XM1014   Teclu Burner   Restricted   True
+Revolver Content   AK-47   Point Disarray   Classified   True
+Revolver Content   G3SG1   The Executioner   Classified   True
+Revolver Content   P90   Shapewood   Classified   True
+Revolver Content   M4A4   Royal Paladin   Covert   True
+Revolver Content   R8 Revolver   Fade   Covert   True
+Chop Shop   Dual Berettas   Duelist   Restricted
+Chop Shop   Glock-18   Twilight Galaxy   Classified
+Chop Shop   M4A1-S   Hot Rod   Classified
+Gods and Monsters   MP7   Asterion   Consumer Grade
+Gods and Monsters   AUG   Daedalus   Consumer Grade
+Gods and Monsters   Dual Berettas   Moon in Libra   Consumer Grade
+Gods and Monsters   Nova   Moon in Libra   Consumer Grade
+Gods and Monsters   Tec-9   Hades   Industrial Grade
+Gods and Monsters   P2000   Pathfinder   Industrial Grade
+Gods and Monsters   AWP   Sun in Leo   Industrial Grade
+Gods and Monsters   M249   Shipping Forecast   Industrial Grade
+Gods and Monsters   UMP-45   Minotaur's Labyrinth   Mil-Spec
+Gods and Monsters   MP9   Pandora's Box   Mil-Spec
+Gods and Monsters   G3SG1   Chronos   Restricted
+Gods and Monsters   M4A1-S   Icarus Fell   Restricted
+Gods and Monsters   M4A4   Poseidon   Classified
+Gods and Monsters   AWP   Medusa   Covert
+Rising Sun   PP-Bizon   Bamboo Print   Consumer Grade
+Rising Sun   Sawed-Off   Bamboo Shadow   Consumer Grade
+Rising Sun   Tec-9   Bamboo Forest   Consumer Grade
+Rising Sun   G3SG1   Orange Kimono   Consumer Grade
+Rising Sun   P250   Mint Kimono   Consumer Grade
+Rising Sun   P250   Crimson Kimono   Industrial Grade
+Rising Sun   Desert Eagle   Midnight Storm   Industrial Grade
+Chop Shop   SG 553   Bulldozer   Restricted
+Chop Shop   CZ75-Auto   Emerald   Mil-Spec
+Chop Shop   Five-SeveN   Nitro   Mil-Spec
+Chop Shop   MP7   Full Stop   Mil-Spec
+Chop Shop   P250   Whiteout   Mil-Spec
+Chop Shop   MAC-10   Fade   Mil-Spec
+Chop Shop   USP-S   Para Green   Industrial Grade
+Chop Shop   Galil AR   Urban Rubble   Industrial Grade
+Chop Shop   Desert Eagle   Night   Industrial Grade
+Chop Shop   MAG-7   Seabird   Consumer Grade
+Chop Shop   M249   Impact Drill   Consumer Grade
+Chop Shop   CZ75-Auto   Army Sheen   Consumer Grade
+Chop Shop   SCAR-20   Army Sheen   Consumer Grade
+Vertigo   Dual Berettas   Demolition   Restricted
+Vertigo   AK-47   Black Laminate   Mil-Spec
+Vertigo   P90   Glacier Mesh   Mil-Spec
+Vertigo   PP-Bizon   Carbon Fiber   Industrial Grade
+Vertigo   MAC-10   Urban DDPAT   Consumer Grade
+Vertigo   XM1014   Urban Perforated   Consumer Grade
+Train   Tec-9   Red Quartz   Restricted
+Train   Desert Eagle   Urban Rubble   Mil-Spec
+Train   Sawed-Off   Amber Fade   Mil-Spec
+Train   P250   Metallic DDPAT   Industrial Grade
+Train   MAG-7   Metallic DDPAT   Industrial Grade
+Train   SCAR-20   Carbon Fiber   Industrial Grade
+Train   P90   Ash Wood   Industrial Grade
+Train   MAC-10   Candy Apple   Industrial Grade
+Train   M4A4   Urban DDPAT   Industrial Grade
+Train   UMP-45   Urban DDPAT   Consumer Grade
+Train   Dual Berettas   Colony   Consumer Grade
+Train   G3SG1   Polar Camo   Consumer Grade
+Train   Five-SeveN   Forest Night   Consumer Grade
+Train   Nova   Polar Mesh   Consumer Grade
+Train   PP-Bizon   Urban Dashed   Consumer Grade
+Safehouse   M4A1-S   Nitro   Restricted
+Safehouse   SSG 08   Acid Fade   Mil-Spec
+Safehouse   Five-SeveN   Silver Quartz   Mil-Spec
+Safehouse   FAMAS   Teardown   Mil-Spec
+Safehouse   G3SG1   VariCamo   Industrial Grade
+Safehouse   M249   Gator Mesh   Industrial Grade
+Safehouse   Galil AR   VariCamo   Industrial Grade
+Safehouse   USP-S   Forest Leaves   Industrial Grade
+Safehouse   AUG   Condemned   Industrial Grade
+Safehouse   MP9   Orange Peel   Industrial Grade
+Safehouse   SCAR-20   Contractor   Consumer Grade
+Safehouse   SSG 08   Blue Spruce   Consumer Grade
+Safehouse   Tec-9   Army Mesh   Consumer Grade
+Safehouse   MP7   Army Recon   Consumer Grade
+Safehouse   Dual Berettas   Contractor   Consumer Grade
+Overpass   M4A1-S   Master Piece   Classified
+Overpass   USP-S   Road Rash   Restricted
+Overpass   AWP   Pink DDPAT   Restricted
+Overpass   XM1014   VariCamo Blue   Mil-Spec
+Overpass   SSG 08   Detour   Mil-Spec
+Overpass   CZ75-Auto   Nitro   Mil-Spec
+Overpass   P2000   Grassland   Industrial Grade
+Overpass   Glock-18   Night   Industrial Grade
+Overpass   MP7   Gunsmoke   Industrial Grade
+Overpass   Desert Eagle   Urban DDPAT   Industrial Grade
+Overpass   MP9   Storm   Consumer Grade
+Overpass   MAG-7   Storm   Consumer Grade
+Overpass   M249   Contrast Spray   Consumer Grade
+Overpass   UMP-45   Scorched   Consumer Grade
+Overpass   Sawed-Off   Sage Spray   Consumer Grade
+Office   MP7   Whiteout   Mil-Spec
+Office   P2000   Silver   Mil-Spec
+Office   M249   Blizzard Marbleized   Industrial Grade
+Office   G3SG1   Arctic Camo   Industrial Grade
+Office   Galil AR   Winter Forest   Industrial Grade
+Office   FAMAS   Contrast Spray   Consumer Grade
+Nuke   Tec-9   Nuclear Threat   Restricted
+Nuke   P250   Nuclear Threat   Restricted
+Nuke   M4A4   Radiation Hazard   Mil-Spec
+Nuke   XM1014   Fallout Warning   Industrial Grade
+Nuke   UMP-45   Fallout Warning   Industrial Grade
+Nuke   P90   Fallout Warning   Industrial Grade
+Nuke   PP-Bizon   Irradiated Alert   Consumer Grade
+Nuke   Sawed-Off   Irradiated Alert   Consumer Grade
+Nuke   MAG-7   Irradiated Alert   Consumer Grade
+Mirage   MAG-7   Bulldozer   Restricted
+Mirage   MAC-10   Amber Fade   Mil-Spec
+Mirage   UMP-45   Blaze   Mil-Spec
+Mirage   MP9   Hot Rod   Mil-Spec
+Mirage   Negev   CaliCamo   Industrial Grade
+Mirage   SSG 08   Tropical Storm   Industrial Grade
+Mirage   SG 553   Gator Mesh   Industrial Grade
+Mirage   Glock-18   Groundwater   Industrial Grade
+Mirage   MP7   Orange Peel   Industrial Grade
+Mirage   P250   Bone Mask   Consumer Grade
+Mirage   Five-SeveN   Contractor   Consumer Grade
+Mirage   AUG   Colony   Consumer Grade
+Mirage   G3SG1   Safari Mesh   Consumer Grade
+Mirage   P90   Scorched   Consumer Grade
+Mirage   Galil AR   Hunting Blind   Consumer Grade
+Militia   SCAR-20   Splash Jam   Classified
+Militia   M4A4   Modern Hunter *   Restricted
+Militia   PP-Bizon   Modern Hunter   Mil-Spec
+Militia   XM1014   Blaze Orange   Mil-Spec
+Militia   P250   Modern Hunter   Mil-Spec
+Militia   Nova   Blaze Orange   Mil-Spec
+Militia   Nova   Modern Hunter   Mil-Spec
+Militia   P2000   Grassland Leaves *   Industrial Grade
+Militia   PP-Bizon   Forest Leaves   Consumer Grade
+Militia   MAC-10   Tornado   Consumer Grade
+Militia   XM1014   Grassland   Consumer Grade
+Lake   Dual Berettas   Cobalt Quartz   Restricted
+Lake   USP-S   Night Ops   Mil-Spec
+Lake   P90   Teardown   Mil-Spec
+Lake   SG 553   Anodized Navy   Mil-Spec
+Lake   Desert Eagle   Mudder   Industrial Grade
+Lake   AWP   Safari Mesh   Industrial Grade
+Lake   PP-Bizon   Night Ops   Industrial Grade
+Lake   FAMAS   Cyanospatter   Industrial Grade
+Lake   XM1014   Blue Steel   Industrial Grade
+Lake   P250   Boreal Forest   Consumer Grade
+Lake   XM1014   Blue Spruce   Consumer Grade
+Lake   AUG   Storm   Consumer Grade
+Lake   Galil AR   Sage Spray   Consumer Grade
+Lake   SG 553   Waves Perforated   Consumer Grade
+Lake   G3SG1   Jungle Dashed   Consumer Grade
+Italy   AWP   Pit Viper   Restricted
+Italy   Sawed-Off   Full Stop   Mil-Spec
+Italy   Glock-18   Candy Apple   Mil-Spec
+Italy   MP7   Anodized Navy   Mil-Spec
+Italy   XM1014   CaliCamo   Industrial Grade
+Italy   M4A1-S   Boreal Forest   Industrial Grade
+Italy   UMP-45   Gunsmoke   Industrial Grade
+Italy   P2000   Granite Marbleized   Industrial Grade
+Italy   Dual Berettas   Stained   Industrial Grade
+Italy   Nova   Candy Apple   Industrial Grade
+Italy   Tec-9   Groundwater   Consumer Grade
+Italy   AUG   Contractor   Consumer Grade
+Italy   FAMAS   Colony   Consumer Grade
+Italy   Nova   Sand Dune   Consumer Grade
+Italy   PP-Bizon   Sand Dashed   Consumer Grade
+Inferno   Tec-9   Brass   Mil-Spec
+Inferno   Dual Berettas   Anodized Navy   Mil-Spec
+Inferno   M4A4   Tornado   Industrial Grade
+Inferno   P250   Gunsmoke   Industrial Grade
+Inferno   Nova   Walnut   Consumer Grade
+Inferno   MAG-7   Sand Dune   Consumer Grade
+Dust 2   R8 Revolver   Amber Fade   Classified
+Dust 2   P2000   Amber Fade   Restricted
+Dust 2   SG 553   Damascus Steel   Mil-Spec
+Dust 2   PP-Bizon   Brass   Mil-Spec
+Dust 2   M4A1-S   VariCamo   Mil-Spec
+Dust 2   Sawed-Off   Snake Camo   Industrial Grade
+Dust 2   AK-47   Safari Mesh   Industrial Grade
+Dust 2   Five-SeveN   Orange Peel   Industrial Grade
+Dust 2   MAC-10   Palm   Industrial Grade
+Dust 2   Tec-9   VariCamo   Industrial Grade
+Dust 2   G3SG1   Desert Storm   Consumer Grade
+Dust 2   P250   Sand Dune   Consumer Grade
+Dust 2   SCAR-20   Sand Mesh   Consumer Grade
+Dust 2   P90   Sand Spray   Consumer Grade
+Dust 2   MP9   Sand Dashed   Consumer Grade
+Dust 2   Nova   Predator   Consumer Grade
+Dust   Glock-18   Brass   Restricted
+Dust   P2000   Scorpion   Restricted
+Dust   Desert Eagle   Blaze   Restricted
+Dust   Sawed-Off   Copper   Mil-Spec
+Dust   AUG   Copperhead   Mil-Spec
+Dust   AWP   Snake Camo   Mil-Spec
+Dust   AK-47   Predator   Industrial Grade
+Dust   SCAR-20   Palm   Industrial Grade
+Dust   M4A4   Desert Storm   Industrial Grade
+Cobblestone   AWP   Dragon Lore   Covert
+Cobblestone   M4A1-S   Knight   Classified
+Cobblestone   CZ75-Auto   Chalice   Restricted
+Cobblestone   Desert Eagle   Hand Cannon   Restricted
+Cobblestone   MP9   Dark Age   Mil-Spec
+Cobblestone   P2000   Chainmail   Mil-Spec
+Cobblestone   Sawed-Off   Rust Coat   Industrial Grade
+Cobblestone   MAG-7   Silver   Industrial Grade
+Cobblestone   Nova   Green Apple   Industrial Grade
+Cobblestone   USP-S   Royal Blue   Industrial Grade
+Cobblestone   Dual Berettas   Briar   Consumer Grade
+Cobblestone   SCAR-20   Storm   Consumer Grade
+Cobblestone   MAC-10   Indigo   Consumer Grade
+Cobblestone   UMP-45   Indigo   Consumer Grade
+Cobblestone   P90   Storm   Consumer Grade
+Cache   Galil AR   Cerberus   Restricted
+Cache   FAMAS   Styx   Restricted
+Cache   Tec-9   Toxic   Mil-Spec
+Cache   MAC-10   Nuclear Garden   Mil-Spec
+Cache   XM1014   Bone Machine   Mil-Spec
+Cache   MP9   Setting Sun   Mil-Spec
+Cache   Glock-18   Reactor   Mil-Spec
+Cache   Five-SeveN   Hot Shot   Industrial Grade
+Cache   SG 553   Fallout Warning   Industrial Grade
+Cache   PP-Bizon   Chemical Green   Industrial Grade
+Cache   AUG   Radiation Hazard   Industrial Grade
+Cache   P250   Contamination   Industrial Grade
+Cache   Negev   Nuclear Waste   Industrial Grade
+Bank   P250   Franklin   Classified
+Bank   AK-47   Emerald Pinstripe   Restricted
+Bank   CZ75-Auto   Tuxedo   Mil-Spec
+Bank   Desert Eagle   Meteorite   Mil-Spec
+Bank   Galil AR   Tuxedo   Mil-Spec
+Bank   G3SG1   Green Apple   Industrial Grade
+Bank   Glock-18   Death Rattle   Industrial Grade
+Bank   MAC-10   Silver   Industrial Grade
+Bank   Nova   Caged Steel   Industrial Grade
+Bank   UMP-45   Carbon Fiber   Industrial Grade
+Bank   R8 Revolver   Bone Mask   Consumer Grade
+Bank   MP7   Forest DDPAT   Consumer Grade
+Bank   Negev   Army Sheen   Consumer Grade
+Bank   Sawed-Off   Forest DDPAT   Consumer Grade
+Bank   SG 553   Army Sheen   Consumer Grade
+Bank   Tec-9   Urban DDPAT   Consumer Grade
+Baggage   AK-47   Jet Set   Classified
+Baggage   Desert Eagle   Pilot   Restricted
+Baggage   AK-47   First Class   Restricted
+Baggage   XM1014   Red Leather   Mil-Spec
+Baggage   USP-S   Business Class   Mil-Spec
+Baggage   Sawed-Off   First Class   Mil-Spec
+Baggage   P2000   Coach Class   Industrial Grade
+Baggage   MAC-10   Commuter   Industrial Grade
+Baggage   P90   Leather   Industrial Grade
+Baggage   SG 553   Traveler   Industrial Grade
+Baggage   SSG 08   Sand Dune   Consumer Grade
+Baggage   MP9   Green Plaid   Consumer Grade
+Baggage   CZ75-Auto   Green Plaid   Consumer Grade
+Baggage   MP7   Olive Plaid   Consumer Grade
+Baggage   G3SG1   Contractor   Consumer Grade
+Aztec   Tec-9   Ossified   Mil-Spec
+Aztec   M4A4   Jungle Tiger   Industrial Grade
+Aztec   AK-47   Jungle Spray   Industrial Grade
+Aztec   SSG 08   Lichen Dashed   Consumer Grade
+Aztec   Five-SeveN   Jungle   Consumer Grade
+Aztec   Nova   Forest Leaves   Consumer Grade
+Assault   Glock-18   Fade   Restricted
+Assault   MP9   Bulldozer   Restricted
+Assault   Negev   Anodized Navy   Mil-Spec
+Assault   AUG   Hot Rod   Mil-Spec
+Assault   Five-SeveN   Candy Apple *   Industrial Grade
+Assault   UMP-45   Caramel   Consumer Grade
+Assault   SG 553   Tornado   Consumer Grade
+Alpha   SCAR-20   Emerald   Restricted
+Alpha   SSG 08   Mayan Dreams   Industrial Grade
+Alpha   Negev   Palm   Industrial Grade
+Alpha   Sawed-Off   Mosaico   Industrial Grade
+Alpha   P250   Facets   Industrial Grade
+Alpha   AUG   Anodized Navy   Mil-Spec
+Alpha   MAG-7   Hazard   Mil-Spec
+Alpha   PP-Bizon   Rust Coat   Mil-Spec
+Alpha   FAMAS   Spitfire   Restricted
+Rising Sun   Galil AR   Aqua Terrace   Mil-Spec
+Rising Sun   MAG-7   Counter Terrace   Mil-Spec
+Rising Sun   Tec-9   Terrace   Mil-Spec
+Rising Sun   Five-SeveN   Neon Kimono   Restricted
+Rising Sun   Desert Eagle   Sunset Storm 壱   Restricted
+Rising Sun   Desert Eagle   Sunset Storm 弐   Restricted
+Rising Sun   M4A4   Daybreak   Restricted
+Alpha   Glock-18   Sand Dune   Industrial Grade
+Alpha   MP7   Groundwater   Consumer Grade
+Alpha   XM1014   Jungle   Consumer Grade
+Alpha   Five-SeveN   Anodized Gunmetal   Consumer Grade
+Alpha   MP9   Dry Season   Consumer Grade
+Alpha   Tec-9   Tornado   Consumer Grade
+Alpha   M249   Jungle DDPAT   Consumer Grade
+Rising Sun   AUG   Akihabara Accept   Covert
+Rising Sun   AK-47   Hydroponic   Classified
+Wildfire   PP-Bizon   Photic Zone   mil-spec
+Wildfire   Dual Berettas   Cartel   mil-spec
+Wildfire   MAC-10   Lapis Gator   mil-spec
+Wildfire   SSG 08   Necropos   mil-spec
+Wildfire   Tec-9   Jambiya   mil-spec
+Wildfire   USP-S   Lead Conduit   mil-spec
+Wildfire   FAMAS   Valence   restricted
+Wildfire   Five-SeveN   Triumvirate   restricted
+Wildfire   Glock-18   Royal Legion   restricted
+Wildfire   MAG-7   Praetorian   restricted
+Wildfire   MP7   Impire   restricted
+Wildfire   AWP   Elite Build   classified
+Wildfire   Desert Eagle   Kumicho Dragon   classified
+Wildfire   Nova   Hyper Beast   classified
+Wildfire   AK-47   Fuel Injector   covert
+Wildfire   M4A4   The Battlestar   covert
